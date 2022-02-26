@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18271345/fathima-hasna-k)
 
-I'm
+I'm a
 Full Stack Developer.
-The crossover between design and programming has always been of interest to me, I've been very lucky to find myself an oppurtunity to learn these skills and to be able work alongside many talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+The crossover between design and programming has always been of interest to me and I've been very lucky to find myself an oppurtunity to learn and sharpen these essential skills and to be able to, one day, work alongside many talented teams in the designing of many high profile websites. I have a wide range of skills that include back-end development design, front-end development (HTML5, CSS3), Server Administrator and database.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/fathimahasnak/count.svg)
